@@ -2,7 +2,7 @@
   "name": "@acme/adapter-change_management",
   "version": "0.1.0",
   "description": "An IAP change management adapter.",
-  "main": "main.js",
+  "main": "lab06.main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pradeep-kumar1/adapter-change_management/issues"
   },
-  "homepage": "https://github.com/pradeep-kumar1/adapter-change_management#readme"
+  "homepage": "https://github.com/pradeep-kumar1/adapter-change_management#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
